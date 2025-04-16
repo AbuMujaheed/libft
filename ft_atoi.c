@@ -47,8 +47,6 @@ int	ft_atoi(const char *nptr)
 *The function also handles optional leading '+' or '-' signs.
 *The function returns 0 if the string does not contain a valid number.
 */
-
-
 long	ft_atol(const char *s)
 {
 	long	result;
